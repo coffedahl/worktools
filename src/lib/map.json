@@ -1,0 +1,121 @@
+[
+    {
+        "filePath": "/src/lib/pdf/gondol1.pdf",
+        "sections": [
+            22
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/gondol2.pdf",
+        "sections": [
+            21
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/gondol3.pdf",
+        "sections": [
+            23
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/podie.pdf",
+        "sections": [
+            25
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/vifte.pdf",
+        "sections": [
+            18,
+            19
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/dator.pdf",
+        "sections": [
+            8
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/ladda.pdf",
+        "sections": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/vitrin-lyd.pdf",
+        "sections": [
+            11
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/lyd.pdf",
+        "sections": [
+            9
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/höytaler.pdf",
+        "sections": [
+            10
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/skjermskytter.pdf",
+        "sections": [
+            15
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/iphone15.pdf",
+        "sections": [
+            16
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/iphone8.pdf",
+        "sections": [
+            17
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/nett.pdf",
+        "sections": [
+            6
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/vitrin.pdf",
+        "sections": [
+            4
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/dreame.pdf",
+        "sections": [
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/logitech.pdf",
+        "sections": [
+            7
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/tplink.pdf",
+        "sections": [
+            5
+        ]
+    },
+    {
+        "filePath": "/src/lib/pdf/batteri.pdf",
+        "sections": [
+            24
+        ]
+    }
+]

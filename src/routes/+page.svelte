@@ -1,11 +1,13 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import PDFModal from '$lib/PDFModal.svelte';
+	import type { PageServerData } from './$types';
+	export let data: PageServerData;
 </script>
 
 <div class="flex items-center justify-center h-[90vh]">
 	{#if $page.url.searchParams.get('id')}
-		<PDFModal />
+		<PDFModal filePath={data.filePath} id={data.id} />
 	{/if}
 	<svg class="h-[80vh]" viewBox="0 0 595 1075" fill="none" xmlns="http://www.w3.org/2000/svg">
 		<!--Lader-->
