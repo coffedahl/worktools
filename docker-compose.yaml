@@ -1,0 +1,7 @@
+services:
+  kjell-map:
+    image: code-server.coffedahl.com/coffedahl/kjell-map
+    container_name: kjell-map
+    ports:
+      - 4000:3000
+    
