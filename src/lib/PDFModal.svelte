@@ -12,7 +12,7 @@
 		<a class="w-8 text-center text-[red]" href="/">X</a>
 	</div>
 	{#if filePath}
-		<object title="pdf-manual" data={filePath} type="application/pdf" width="100%" height="500%"
+		<object title="pdf-manual" data={'/pdf/'+filePath} type="application/pdf" width="100%" height="500%"
 		></object>
 	{:else}
 		<h1>No data</h1>
